@@ -1,6 +1,9 @@
 # How-to-create-a-Virtual-Private-Cloud-VPC-using-the-Amazon-CloudFormation.
 Creating a Virtual Private Cloud (VPC), Subnets, Internet Gateway and Route Table using the Amazon CloudFormation.
 
+<img width="1440" alt="Screenshot 2022-12-04 at 3 45 50 PM" src="https://user-images.githubusercontent.com/67089791/205562685-ea6d5ce0-61aa-4866-9619-257f056fc447.png">
+
+
 
 Introduction to CloudFormation.
 1. Log in to the AWS management console.
